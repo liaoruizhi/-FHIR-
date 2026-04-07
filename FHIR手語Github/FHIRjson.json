@@ -1,7 +1,7 @@
 [
   {
     "resourceType": "Observation",
-    "id": "sign-obs-20260408011119",
+    "id": "sign-obs-20260408014625",
     "status": "final",
     "category": [
       {
@@ -21,14 +21,14 @@
       "reference": "Patient/patient-001",
       "display": "使用者"
     },
-    "effectiveDateTime": "2026-04-08T01:11:19.467102",
+    "effectiveDateTime": "2026-04-08T01:46:25.001671",
     "component": [
       {
         "code": {
           "text": "X軸加速度平均值"
         },
         "valueQuantity": {
-          "value": 0,
+          "value": 0.0401,
           "unit": "m/s^2"
         }
       },
@@ -37,7 +37,7 @@
           "text": "X軸加速度標準差"
         },
         "valueQuantity": {
-          "value": 0.0,
+          "value": 0.0864,
           "unit": "m/s^2"
         }
       },
@@ -46,7 +46,7 @@
           "text": "Y軸加速度平均值"
         },
         "valueQuantity": {
-          "value": 0,
+          "value": 0.0457,
           "unit": "m/s^2"
         }
       },
@@ -55,7 +55,7 @@
           "text": "Y軸加速度標準差"
         },
         "valueQuantity": {
-          "value": 0.0,
+          "value": 0.1041,
           "unit": "m/s^2"
         }
       },
@@ -64,7 +64,7 @@
           "text": "Z軸加速度平均值"
         },
         "valueQuantity": {
-          "value": 0,
+          "value": 0.0867,
           "unit": "m/s^2"
         }
       },
@@ -73,7 +73,7 @@
           "text": "Z軸加速度標準差"
         },
         "valueQuantity": {
-          "value": 0.0,
+          "value": 0.1756,
           "unit": "m/s^2"
         }
       },
@@ -82,7 +82,7 @@
           "text": "X軸角速度平均值"
         },
         "valueQuantity": {
-          "value": 0,
+          "value": -0.1605,
           "unit": "deg/s"
         }
       },
@@ -91,7 +91,7 @@
           "text": "X軸角速度標準差"
         },
         "valueQuantity": {
-          "value": 0.0,
+          "value": 2.515,
           "unit": "deg/s"
         }
       },
@@ -100,7 +100,7 @@
           "text": "Y軸角速度平均值"
         },
         "valueQuantity": {
-          "value": 0,
+          "value": -1.4335,
           "unit": "deg/s"
         }
       },
@@ -109,7 +109,7 @@
           "text": "Y軸角速度標準差"
         },
         "valueQuantity": {
-          "value": 0.0,
+          "value": 2.7936,
           "unit": "deg/s"
         }
       },
@@ -118,7 +118,7 @@
           "text": "Z軸角速度平均值"
         },
         "valueQuantity": {
-          "value": 0,
+          "value": 0.2884,
           "unit": "deg/s"
         }
       },
@@ -127,7 +127,7 @@
           "text": "Z軸角速度標準差"
         },
         "valueQuantity": {
-          "value": 0.0,
+          "value": 1.9303,
           "unit": "deg/s"
         }
       },
@@ -136,7 +136,7 @@
           "text": "X軸方向角平均值"
         },
         "valueQuantity": {
-          "value": 0,
+          "value": 6.9928,
           "unit": "degree"
         }
       },
@@ -145,7 +145,7 @@
           "text": "X軸方向角標準差"
         },
         "valueQuantity": {
-          "value": 0.0,
+          "value": 0.2929,
           "unit": "degree"
         }
       },
@@ -154,7 +154,7 @@
           "text": "Y軸方向角平均值"
         },
         "valueQuantity": {
-          "value": 0,
+          "value": 26.9207,
           "unit": "degree"
         }
       },
@@ -163,7 +163,7 @@
           "text": "Y軸方向角標準差"
         },
         "valueQuantity": {
-          "value": 0.0,
+          "value": 0.2871,
           "unit": "degree"
         }
       },
@@ -172,7 +172,7 @@
           "text": "Z軸方向角平均值"
         },
         "valueQuantity": {
-          "value": 0,
+          "value": -24.6168,
           "unit": "degree"
         }
       },
@@ -181,7 +181,7 @@
           "text": "Z軸方向角標準差"
         },
         "valueQuantity": {
-          "value": 0.0,
+          "value": 0.9132,
           "unit": "degree"
         }
       },
